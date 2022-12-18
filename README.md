@@ -9,7 +9,7 @@ You can get a hint of the algorithm by the provided video.
 Same project is implemented in the hardware format as well, and the code and image of the simulation is provided in the [`Hardware`](./Hardware/) folder.
 
 #### Simulation Model:
-![simulation of hardware](./Hardware/Powerful%20Blad.png)
+![simulation of hardware](https://github.com/HridayAg0102/EV-charging-and-optimisation/blob/main/Hardware/Powerful%20Blad.png)
 
 ## Team Details:
 - Hriday Agrawal (SID: 20104133)
