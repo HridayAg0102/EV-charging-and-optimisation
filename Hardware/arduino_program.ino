@@ -1,7 +1,11 @@
-// C++ code
-//
+// A simple program to show the binary output of the model. 
+// In short, the LEDs show which devices are operated for which slot.
+// Please note that we are just running this program for certain time slots (Please check line 8)
 
 int ledPin[17] = {13,12,11,10,9,8,7,6,5,4,3,2,1,0,14,15,16};
+
+
+// Creating array of inputs indices (0,3,7,38,61,80)
 
 int b[7][17] = {{1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0},
 {0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1},
@@ -12,7 +16,6 @@ int b[7][17] = {{1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0},
 {0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1},
 };
 
-// Creating array of inputs indices (0,3,7,38,61,80)
  
 void setup()
 {
