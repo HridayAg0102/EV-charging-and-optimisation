@@ -12,12 +12,12 @@ Same project is implemented in the hardware format as well, and the code and ima
 ![simulation of hardware](./Hardware/Powerful%20Blad.png)
 
 ## Team Details:
-Hriday Agrawal (SID: 20104133)
-Tejesh Singh Raghav (SID: 20104143)
-Mohit Tuteja (SID: 20104078)
-Ashwani Lamba (SID: 20104109)
-Punit Kumar (SID: 20104107)
-Rupak Jee Kashyap (SID: 20104125)
+- Hriday Agrawal (SID: 20104133)
+- Tejesh Singh Raghav (SID: 20104143)
+- Mohit Tuteja (SID: 20104078)
+- Ashwani Lamba (SID: 20104109)
+- Punit Kumar (SID: 20104107)
+- Rupak Jee Kashyap (SID: 20104125)
 
 ## Project Mentor:
 Prof. Bharat Kumar 
